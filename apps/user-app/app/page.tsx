@@ -1,4 +1,5 @@
-import React from 'react'
+import { PrismaClient } from "@repo/db/client"
+
 
 export default function page() {
   return (
