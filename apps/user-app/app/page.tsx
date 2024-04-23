@@ -1,4 +1,4 @@
-import { PrismaClient } from "@repo/db/client"
+import { PrismaClient } from "../../../packages/db"
 
 
 export default function page() {
